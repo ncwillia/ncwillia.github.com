@@ -1,8 +1,8 @@
-.example {
+.examples {
  font-family:arial;
 }
 #animalPicture {
- border:5px solid red;
+ color:red;
 }
 body {
  background-color:#C9C9DC;
