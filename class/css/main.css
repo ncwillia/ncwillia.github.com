@@ -1,3 +1,9 @@
-p {
- color: blue;
+.example {
+ font-family:arial;
+}
+#animalPicture {
+ border:5px solid red;
+}
+body {
+ background-color:#C9C9DC;
 }
